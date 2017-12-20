@@ -1,10 +1,10 @@
 ---
 templateKey: blog-post
 path: /test
-title: Some title
+title: 'heading one '
 date: 2017-12-19T19:46:19.778Z
-description: this is some description
+description: This is description of heading one
 ---
-some body text
+It also has some image below
 
 ![null](/img/jumbotron.jpg)
