@@ -7,4 +7,4 @@ description: this is some description
 ---
 some body text
 
-![](/img/jumbotron.jpg)
+![null](/img/jumbotron.jpg)
